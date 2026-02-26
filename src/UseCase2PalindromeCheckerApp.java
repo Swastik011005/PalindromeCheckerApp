@@ -1,3 +1,5 @@
+//UC2: Hardcoded Palindrome Validation
+
 public class UseCase2PalindromeCheckerApp {
     public static void main(String[] args) {
 
