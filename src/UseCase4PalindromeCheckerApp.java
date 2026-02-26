@@ -1,3 +1,4 @@
+//UC4: Character Array Based Validation
 public class UseCase4PalindromeCheckerApp {
     public static void main(String[] args) {
 
